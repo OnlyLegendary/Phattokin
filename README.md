@@ -1,2 +1,16 @@
 # Phattokin
 Its a hopefully long lasting replacement for the NEC/TOKIN 0E123 proadlizer capacitor in the phat ps3 mobo model sem-001
+No.	Quantity	Comment	Designator	Footprint	Value	Manufacturer Part	Manufacturer	Supplier Part	Supplier
+______________________________________________________________________________________________________________________________________
+1	6	220uF	C1,C2,C3,C4,C5,C6	CAP-SMD_L3.5-W2.8	220uF	T520B227M006ATE025	KEMET(基美)	C212684	LCSC 
+https://www.lcsc.com/product-detail/C212684.html?spm=wm.mxq.bom.3.xh___wm.bjg.btn.cre&lcsc_vid=RlMMUAFSRFcMBVBQFVAPBlZfQlEPAlIHQFdbUlwAFlMxVlNeTlZXVFdQQlVbXzsOAxUeFF5JWBEPFBcWGBMaSQgFBAJABAsLWA%3D%3D
+______________________________________________________________________________________________________________________________________
+2	1	22uF	C7	C1210	22uF	GCM32ER71A226KE12L	muRata(村田)	C913632	LCSC 
+https://www.lcsc.com/product-detail/C913632.html?spm=wm.mxq.bom.0.xh___wm.bjg.btn.cre&lcsc_vid=RlMMUAFSRFcMBVBQFVAPBlZfQlEPAlIHQFdbUlwAFlMxVlNeTlZXVFdQQlVbXzsOAxUeFF5JWBEPFBcWGBMaSQgFBAJABAsLWA%3D%3D
+______________________________________________________________________________________________________________________________________
+3	1	10uF	C8	C1206	10uF	CL31B106KBHNNNE	SAMSUNG(三星)	C89632	LCSC
+https://www.lcsc.com/product-detail/C89632.html?spm=wm.mxq.bom.1.xh___wm.bjg.btn.cre&lcsc_vid=RlMMUAFSRFcMBVBQFVAPBlZfQlEPAlIHQFdbUlwAFlMxVlNeTlZXVFdQQlVbXzsOAxUeFF5JWBEPFBcWGBMaSQgFBAJABAsLWA%3D%3D
+______________________________________________________________________________________________________________________________________
+4	1	4.7uF	C9	C1206	4.7uF	1206B475K250NT	FH(风华)	C132148	LCSC
+https://www.lcsc.com/product-detail/C132148.html?spm=wm.mxq.bom.2.xh___wm.bjg.btn.cre&lcsc_vid=RlMMUAFSRFcMBVBQFVAPBlZfQlEPAlIHQFdbUlwAFlMxVlNeTlZXVFdQQlVbXzsOAxUeFF5JWBEPFBcWGBMaSQgFBAJABAsLWA%3D%3D
+______________________________________________________________________________________________________________________________________
