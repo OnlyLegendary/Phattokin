@@ -1,5 +1,8 @@
 # Phattokin
 Its a hopefully long lasting replacement for the NEC/TOKIN 0E123 proadlizer capacitor in the phat ps3 mobo model sem-001
+
+  ____________________________________________________BOM_____________________________________________________________________________
+
 No.	Quantity	Comment	Designator	Footprint	Value	Manufacturer Part	Manufacturer	Supplier Part	Supplier
 ______________________________________________________________________________________________________________________________________
 1	6	220uF	C1,C2,C3,C4,C5,C6	CAP-SMD_L3.5-W2.8	220uF	T520B227M006ATE025	KEMET(基美)	C212684	LCSC 
