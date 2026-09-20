@@ -8,7 +8,7 @@ Its a hopefully long lasting replacement for the NEC/TOKIN 0E123 proadlizer capa
 
 Its just a bunch of small caps to replace a big kinda weird looking cap that dies under heat fast some pictures of the nec/tokin <img width="955" height="722" alt="image" src="https://github.com/user-attachments/assets/c5c5a948-897c-405b-b8f0-fd635891d7e2" />
 <img width="896" height="606" alt="image" src="https://github.com/user-attachments/assets/ae2ddcd8-8728-42e3-b46c-bb1d292bc7a6" />
-some of the heard stuff that i have to do in making this is making sure its acually gonna fit in the very tight small places in the ps3 it legit has no room to spare 
+some of the hard stuff that i had to do in making this is making sure its acually gonna fit in the very tight small places in the ps3 it legit has no room to spare 
 
   ____________________________________________________BOM_____________________________________________________________________________
 
