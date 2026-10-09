@@ -1,8 +1,8 @@
-<img width="658" height="608" alt="Screenshot_20260919_004540" src="https://github.com/user-attachments/assets/ec62669b-ef45-4b29-a58a-41d389bc14e3" />
-<img width="884" height="733" alt="Screenshot_20260919_004529" src="https://github.com/user-attachments/assets/32ee1ad0-ae15-4bd6-87c1-eb8148c53297" />
-<img width="936" height="706" alt="Screenshot_20260919_004514" src="https://github.com/user-attachments/assets/2f5ce372-b8ca-4dbf-95a0-aa440026e434" />
-<img width="1250" height="537" alt="Screenshot_20260919_004430" src="https://github.com/user-attachments/assets/f93cf301-9c8d-42be-b37a-57539388003a" />
-<img width="929" height="712" alt="Screenshot_20260919_003458" src="https://github.com/user-attachments/assets/37c193cb-aa52-4dd2-a56a-a8f8ca555237" />
+<img width="923" height="681" alt="image" src="https://github.com/user-attachments/assets/26cbf27a-aede-44d0-9237-08c25da4079c" />
+<img width="831" height="634" alt="image" src="https://github.com/user-attachments/assets/fccdf35c-19bd-4859-9a5e-75a806bf3d3c" />
+<img width="780" height="640" alt="image" src="https://github.com/user-attachments/assets/e69d0057-743a-46de-a3c2-11d861a1cfcb" />
+<img width="980" height="741" alt="image" src="https://github.com/user-attachments/assets/d62f7d8b-93e6-45c3-853b-b2f8fe68077c" />
+
 # Phattokin
 Its a hopefully long lasting replacement for the NEC/TOKIN 0E123 proadlizer capacitor in the phat ps3 mobo model sem-001
 
